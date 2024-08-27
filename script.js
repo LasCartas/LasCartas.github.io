@@ -1,3 +1,6 @@
+// item1=vintek 2=pukawka 3=ceram 4=pistolmk2 5=Kajdany 6=tlumik 7=kamza 8=ammo9 9= ammo.45
+
+
 const prices = {
   H: {
     item1: 200000,
