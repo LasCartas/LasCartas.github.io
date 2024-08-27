@@ -5,7 +5,7 @@ const prices = {
     item3: 200000,
     item4: 150000,
     item5: 70000,
-    item6: 80000,
+    item6: 200000,
     item7: 150000,
     item8: 400,
     item9: 450
@@ -16,7 +16,7 @@ const prices = {
     item3: 150000,
     item4: 100000,
     item5: 50000,
-    item6: 50000,
+    item6: 200000,
     item7: 125000,
     item8: 300,
     item9: 350
